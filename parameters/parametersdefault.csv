@@ -1,0 +1,14 @@
+number_of_students,30000
+p_international_knows_international,0.00003
+p_german_knows_german,0.0003
+p_dutch_knows_dutch,0.001
+p_faculty_knows_faculty,0.005
+n_students_know_student_study_same_year,25
+n_students_know_student_study_other_year,10
+n_students_know_student_study_other_phase,5
+n_students_know_student_association,30
+with_study_association,True
+with_student_association,True
+make_network,False
+output_file,"results/defaultresults.csv"
+attempt_name,"defaultattempt"
